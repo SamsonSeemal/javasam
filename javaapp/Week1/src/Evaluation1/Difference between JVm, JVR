@@ -1,0 +1,20 @@
+JDK
+1.JDK is primarily used for code execution and has prime functionality of development.
+2.JDK is platform dependent i.e for different platforms different JDK required.
+3.As JDK is responsible for prime development so it contains tools for developing, debugging and monitoring java application.
+4.JDK = Java Runtime Environment (JRE) + Development tools
+
+JRE
+
+1.On other hand JRE is majorly responsible for creating environment for code execution.
+2.Like of JDK JRE is also platform dependent.
+3.On other hand JRE does not contain tools such as compiler or debugger etc. Rather it contains class libraries and other supporting files that JVM requires to run the program.
+4.JRE = Java Virtual Machine (JVM) + Libraries to run the application
+
+JVM
+
+1.JVM on other hand specifies all the implementations and responsible to provide these implementations to JRE.
+2.JVM is platform independent.
+3.JVM does not include software development tools.
+4.JVM = Only Runtime environment for executing the Java byte code.
+

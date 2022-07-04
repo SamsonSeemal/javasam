@@ -1,0 +1,19 @@
+                    String                                  String Builder
+1.Stroage           String Pool                                 Heap
+2.Mutability         Immutable                                  Mutable
+3.Thread Safe        Not used in a threaded environment             Used in a single-threaded environment
+4.Performance           Slow                                            Faster than StringBuffer
+5.Syntax                String var =“Edureka”;                                  StringBuilder var = new StringBuilder("Edureka");
+                        String var=new String(“Edureka”);
+
+
+
+
+                    MEthodsss
+
+
+                    1.  charAt()            Returns the character at the specified index (position)
+                    2.length()                  Returns the length of a specified string
+                    3.split()                   Splits a string into an array of substrings
+                    4.toLowerCase()                 	Converts a string to lower case letters
+                    5.toUpperCase()                     Converts a string to upper case letters
